@@ -1,5 +1,5 @@
 <?php
-	//Start session
+
 	session_start();
 	
 	//Array to store validation errors
